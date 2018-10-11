@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Niramit');
+
+body {
+  background-image: https://www.new-york-city-travel-tips.com/chelsea-market-new-york/("chelsea market.jpg")
+  color: black;
+  font-size: 20px;
+  font-family: 'Niramit', sans-serif;
+}
+
+h1 {
+  color: red;
+  font-size: 45px;
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  color: black;
+  font-size: 30px;
+  font-family: 'lobster', cursive;
+}
